@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-yswj16.date-me.pro/sitemap.xml
